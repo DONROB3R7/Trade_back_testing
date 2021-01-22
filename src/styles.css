@@ -8,3 +8,15 @@
   border: 0;
   outline: 0;
 }
+
+.inputs_value {
+  margin-bottom: 30px;
+}
+
+.win {
+  color: green;
+}
+
+.lose {
+  color: red;
+}
